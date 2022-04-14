@@ -33,8 +33,10 @@ h1 {
   letter-spacing: 0.9px;
 }
 
-.navbar-brand img {
+.navbar-brand img{
   padding-top: 10px;
+  height: 100px;
+  width: 100px;
 }
 
 .loading-spinner {

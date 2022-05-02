@@ -6,20 +6,21 @@ My task was to build a text editor that runs in the browser. This application is
 
 
 ## Table of Contents
-- [General Information](#general-information)
-- [Technologies](#technologies)
-- [Setup](#setup)
+- [Install](#install)
 - [Credits](#credits)
 - [License](#license)
 
 
-## General Information
 
 ### Link to deployed application
 
-## Technologies
+https://pwa-texteditor-agm.herokuapp.com/
 
-## Setup
+
+## Install
+```bash
+npm i
+```
 
 ## Credits
 DU Bootcamp Lectures - Week 19
